@@ -1,0 +1,13 @@
+.Personne input{
+    border: 1px solid palevioletred;
+    padding: 15px;
+    border-radius: 7px;
+}
+.Personne {
+    width:40% ; 
+    border: 1px solid #eee ; 
+    box-shadow: 0 2px 3px #ccc; 
+    margin: 40px auto; 
+    padding:16px 0 ; 
+    text-align: center;
+}

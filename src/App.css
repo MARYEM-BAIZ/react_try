@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+header nav {
+
+ 
+    width:60% ; 
+    border: 1px solid #eee ; 
+    box-shadow: 0 2px 3px #ccc; 
+    margin:auto; 
+    padding:16px 0 ; 
+    text-align: center;
+
+}
+
+header nav ul{
+  list-style : none
+}
